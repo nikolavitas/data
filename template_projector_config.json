@@ -6,8 +6,8 @@
         1000,
         50
       ],
-      "tensorPath": "https://raw.githubusercontent.com/.../tensors.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/.../optional.metadata.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/nikolavitas/data/refs/heads/main/tensorflow_input_spex.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/nikolavitas/data/refs/heads/main/metadata_spex_for_tensorflow.tsv"
     }
   ]
 }
